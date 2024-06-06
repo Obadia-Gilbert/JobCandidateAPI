@@ -3,7 +3,7 @@ using JobCandidateHubAPI.Model;
 
 namespace JobCandidateHubAPI.Repositories
 {
-	public interface ICanditateRepository
+	public interface ICandidateRepository
 	{
         
             Task<Candidate> GetByEmailAsync(string email);
@@ -13,6 +13,8 @@ namespace JobCandidateHubAPI.Repositories
             Task UpdateAsync(Candidate candidate);
 
             Task SaveChangesAsync();
+
+            Task<ICollection<Candidate>> GetCandidatesAsync();
         
     }
 }

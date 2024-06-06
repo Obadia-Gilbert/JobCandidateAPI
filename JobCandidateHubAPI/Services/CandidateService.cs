@@ -6,9 +6,9 @@ namespace JobCandidateHubAPI.Services
 {
     public class CandidateService
     {
-        private readonly ICandidateRepository _candidateRepository;
+        private readonly CandidateRepository _candidateRepository;
 
-        public CandidateService(ICandidateRepository candidateRepository)
+        public CandidateService(CandidateRepository candidateRepository)
         {
             _candidateRepository = candidateRepository;
         }
@@ -22,7 +22,7 @@ namespace JobCandidateHubAPI.Services
                 existingCandidate.FirstName = candidate.FirstName;
                 existingCandidate.LastName = candidate.LastName;
                 existingCandidate.PhoneNumber = candidate.PhoneNumber;
-                existingCandidate.PreferredCallTime = candidate.CallTimeInterval;
+                existingCandidate.CallTimeInterval = candidate.CallTimeInterval;
                 existingCandidate.LinkedInProfileUrl = candidate.LinkedInProfileUrl;
                 existingCandidate.GitHubProfileUrl = candidate.GitHubProfileUrl;
                 existingCandidate.Comments = candidate.Comments;
@@ -35,6 +35,11 @@ namespace JobCandidateHubAPI.Services
             }
 
             await _candidateRepository.SaveChangesAsync();
+        }
+
+        public async Task<ICollection<Candidate>> GetCandidatesAsync()
+        {
+            return await _candidateRepository.GetCandidatesAsync();
         }
     }
 }

@@ -55,7 +55,6 @@
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/JobCandidateHubAPI.csproj.CoreCompileInputs.cache
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/JobCandidateHubAPI.MvcApplicationPartsAssemblyInfo.cs
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/JobCandidateHubAPI.MvcApplicationPartsAssemblyInfo.cache
-/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/JobCandidateHubAPI.sourcelink.json
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/staticwebassets.build.json
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/staticwebassets.development.json
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/staticwebassets/msbuild.JobCandidateHubAPI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -64,7 +63,6 @@
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.JobCandidateHubAPI.props
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/staticwebassets.pack.json
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/scopedcss/bundle/JobCandidateHubAPI.styles.css
-/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/JobCandi.C851AE6D.Up2Date
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/JobCandidateHubAPI.dll
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/refint/JobCandidateHubAPI.dll
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/JobCandidateHubAPI.pdb
@@ -75,3 +73,4 @@
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/bin/Debug/net7.0/Mono.TextTemplating.dll
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/bin/Debug/net7.0/System.CodeDom.dll
+/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/JobCandidateHubAPI.csproj.CopyComplete

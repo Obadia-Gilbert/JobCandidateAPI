@@ -1,11 +1,11 @@
-﻿using System;
-using JobCandidateHubAPI.Data;
+﻿using JobCandidateHubAPI.Data;
 using JobCandidateHubAPI.Model;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace JobCandidateHubAPI.Repositories
 {
-    public class CandidateRepository : ICanditateRepository
+    public class CandidateRepository : ICandidateRepository
     {
         private readonly JobCandidateDbContext context;
 
@@ -31,6 +31,11 @@ namespace JobCandidateHubAPI.Repositories
         public async Task UpdateAsync(Candidate candidate)
         {
             context.Candidates.Update(candidate);
+        }
+
+        public async Task<ICollection<Candidate>> GetCandidatesAsync()
+        {
+            return await context.Candidates.ToListAsync();
         }
     }
 }
