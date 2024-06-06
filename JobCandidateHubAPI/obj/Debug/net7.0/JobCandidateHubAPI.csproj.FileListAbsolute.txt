@@ -70,3 +70,8 @@
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/JobCandidateHubAPI.pdb
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/JobCandidateHubAPI.genruntimeconfig.cache
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/obj/Debug/net7.0/ref/JobCandidateHubAPI.dll
+/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/bin/Debug/net7.0/Humanizer.dll
+/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHubAPI/bin/Debug/net7.0/System.CodeDom.dll
