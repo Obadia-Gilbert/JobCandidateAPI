@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace JobCandidateHubAPI.Models
+namespace JobCandidateHubAPI.Model
 {
 	public class Candidate
 	{
@@ -27,12 +27,12 @@ namespace JobCandidateHubAPI.Models
         public string CallTimeInterval { get; set; }
 
         [Url]
-        public string LinkedInUrl { get; set; }
+        public string LinkedInProfileUrl { get; set; }
 
         [Url]
-        public string GitHubUrl { get; set; }
+        public string GitHubProfileUrl { get; set; }
 
-        [Url]
+        [Required]
         public string Comments { get; set; }
         
     }

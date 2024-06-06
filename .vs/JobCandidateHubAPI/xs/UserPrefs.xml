@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{B6C0E9DC-DF42-49E4-B694-D88A1BB0BCFB}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.JobCandidateHubAPI FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.JobCandidateHubAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JobCandidateHubAPI/Data/JobCandidateDbContext.cs">
+    <Files>
+      <File FileName="JobCandidateHubAPI/Models/Candidate.cs" Line="34" Column="1" />
+      <File FileName="JobCandidateHubAPI/Data/JobCandidateDbContext.cs" Line="2" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JobCandidateHubAPI" expanded="True">
+            <Node name="JobCandidateHubAPI" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Model" expanded="True" selected="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
