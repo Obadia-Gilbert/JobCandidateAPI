@@ -5,11 +5,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace JobCandidateHubAPI.Repositories
 {
-    public class CandidateRepositories : ICanditateRepositories
+    public class CandidateRepository : ICanditateRepository
     {
         private readonly JobCandidateDbContext context;
 
-        public CandidateRepositories(JobCandidateDbContext context)
+        public CandidateRepository(JobCandidateDbContext context)
         {
             this.context = context;
         }

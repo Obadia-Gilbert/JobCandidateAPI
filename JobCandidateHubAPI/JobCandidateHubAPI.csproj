@@ -23,10 +23,12 @@
     <None Remove="Data\" />
     <None Remove="Model\" />
     <None Remove="Repositories\" />
+    <None Remove="Services\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Model\" />
     <Folder Include="Repositories\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 </Project>
