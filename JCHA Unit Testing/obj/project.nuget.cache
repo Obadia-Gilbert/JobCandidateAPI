@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0CTxAl+/ieOqT7Z2AdG1PYKdNOkbvuN+SZOsrGiYJ4IpzJtN0wLSMoy4hS/wDmoBbqli9Q/VTpJbrJbsgLteZw==",
+  "dgSpecHash": "ICbn8FrnHTxiZe28MwBZBqIE5g78ieQVhxiFwhD/1axZK8gwdc/HkSIVlQ7kXkXvTKl8LiqUehgjxdJaxeDnIw==",
   "success": true,
   "projectFilePath": "/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JCHA Unit Testing/JCHA Unit Testing.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/obadiagilbert/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/obadiagilbert/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/Users/obadiagilbert/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
