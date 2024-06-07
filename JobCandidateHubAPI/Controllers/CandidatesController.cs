@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace JobCandidateHubAPI.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class CandidatesController : ControllerBase
 {
     private readonly CandidateService candidateService;
