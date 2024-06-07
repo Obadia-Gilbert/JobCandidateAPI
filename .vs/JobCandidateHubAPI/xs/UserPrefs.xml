@@ -1,29 +1,35 @@
 ﻿<Properties StartupConfiguration="{B6C0E9DC-DF42-49E4-B694-D88A1BB0BCFB}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JCHA_220UnitTesting FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.JobCandidateHubAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="JobCandidateHubAPI/Data/JobCandidateDbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JobCandidateHubAPI/Services/CandidateService.cs">
     <Files>
-      <File FileName="JobCandidateHubAPI/Models/Candidate.cs" Line="34" Column="1" />
-      <File FileName="JobCandidateHubAPI/Data/JobCandidateDbContext.cs" Line="2" Column="31" />
+      <File FileName="JobCandidateHubAPI/Data/JobCandidateDbContext.cs" />
+      <File FileName="JobCandidateHubAPI/Model/Candidate.cs" Line="36" Column="26" />
+      <File FileName="JobCandidateHubAPI/appsettings.json" />
+      <File FileName="JobCandidateHubAPI/appsettings.Development.json" />
+      <File FileName="JobCandidateHubAPI/Properties/launchSettings.json" />
+      <File FileName="JobCandidateHubAPI/Program.cs" Line="19" Column="1" />
+      <File FileName="JobCandidateHubAPI/Services/CandidateService.cs" Line="43" Column="12" />
+      <File FileName="JobCandidateHubAPI/Repositories/CandidateRepository.cs" Line="39" Column="12" />
+      <File FileName="JobCandidateHubAPI/Repositories/ICanditateRepository.cs" Line="17" Column="15" />
+      <File FileName="JobCandidateHubAPI/Controllers/CandidatesController.cs" Line="37" Column="8" />
+      <File FileName="JCHA UnitTesting/Program.cs" Line="4" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="JobCandidateHubAPI" expanded="True">
+          <Node name="JobCandidateHubAPI">
             <Node name="JobCandidateHubAPI" expanded="True">
-              <Node name="Data" expanded="True" />
-              <Node name="Model" expanded="True" selected="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="appsettings.json" expanded="True" />
+              <Node name="Dependencies" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JCHA_220Unit_220Testing FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
 </Properties>

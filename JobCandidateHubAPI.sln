@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCandidateHubAPI", "JobCandidateHubAPI\JobCandidateHubAPI.csproj", "{B6C0E9DC-DF42-49E4-B694-D88A1BB0BCFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCHA Unit Testing", "JCHA Unit Testing\JCHA Unit Testing.csproj", "{70BDADD6-49F1-4D12-9F1B-8AE8D50EC899}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B6C0E9DC-DF42-49E4-B694-D88A1BB0BCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6C0E9DC-DF42-49E4-B694-D88A1BB0BCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6C0E9DC-DF42-49E4-B694-D88A1BB0BCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BDADD6-49F1-4D12-9F1B-8AE8D50EC899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BDADD6-49F1-4D12-9F1B-8AE8D50EC899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BDADD6-49F1-4D12-9F1B-8AE8D50EC899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BDADD6-49F1-4D12-9F1B-8AE8D50EC899}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
