@@ -14,7 +14,7 @@ namespace JobCandidateHubAPI.Repositories
 
             Task SaveChangesAsync();
 
-            Task<ICollection<Candidate>> GetCandidatesAsync();
+            //Task<ICollection<Candidate>> GetCandidatesAsync();
         
     }
 }

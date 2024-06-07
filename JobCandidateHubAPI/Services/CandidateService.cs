@@ -6,9 +6,9 @@ namespace JobCandidateHubAPI.Services
 {
     public class CandidateService
     {
-        private readonly CandidateRepository _candidateRepository;
+        private readonly ICandidateRepository _candidateRepository;
 
-        public CandidateService(CandidateRepository candidateRepository)
+        public CandidateService(ICandidateRepository candidateRepository)
         {
             _candidateRepository = candidateRepository;
         }
@@ -37,10 +37,10 @@ namespace JobCandidateHubAPI.Services
             await _candidateRepository.SaveChangesAsync();
         }
 
-        public async Task<ICollection<Candidate>> GetCandidatesAsync()
+        /*public async Task<ICollection<Candidate>> GetCandidatesAsync()
         {
             return await _candidateRepository.GetCandidatesAsync();
-        }
+        }*/
     }
 }
 

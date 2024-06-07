@@ -33,10 +33,10 @@ namespace JobCandidateHubAPI.Repositories
             context.Candidates.Update(candidate);
         }
 
-        public async Task<ICollection<Candidate>> GetCandidatesAsync()
+        /*public async Task<ICollection<Candidate>> GetCandidatesAsync()
         {
             return await context.Candidates.ToListAsync();
-        }
+        }*/
     }
 }
 

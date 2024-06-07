@@ -28,12 +28,12 @@ public class CandidatesController : ControllerBase
         return Ok();
     }
 
-    [HttpGet]
+    /*[HttpGet("GetAllCandidates")]
 
     public async Task<ActionResult<ICollection<Candidate>>> GetAllCandidates()
     {
         var candidates = await candidateService.GetCandidatesAsync();
         return Ok(candidates);
-    }
+    }*/
 }
 
