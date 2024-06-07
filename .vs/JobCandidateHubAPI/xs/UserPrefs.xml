@@ -29,7 +29,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.JCHA_220Unit_220Testing FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.JobCandidateHub.Tests FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
 </Properties>

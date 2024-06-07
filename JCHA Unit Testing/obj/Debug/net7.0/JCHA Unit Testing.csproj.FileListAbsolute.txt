@@ -1,5 +1,0 @@
-/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JCHA Unit Testing/obj/Debug/net7.0/JCHA Unit Testing.csproj.AssemblyReference.cache
-/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JCHA Unit Testing/obj/Debug/net7.0/JCHA Unit Testing.GeneratedMSBuildEditorConfig.editorconfig
-/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JCHA Unit Testing/obj/Debug/net7.0/JCHA Unit Testing.AssemblyInfoInputs.cache
-/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JCHA Unit Testing/obj/Debug/net7.0/JCHA Unit Testing.AssemblyInfo.cs
-/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JCHA Unit Testing/obj/Debug/net7.0/JCHA Unit Testing.csproj.CoreCompileInputs.cache
