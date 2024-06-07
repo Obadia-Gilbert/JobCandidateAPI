@@ -11,5 +11,7 @@
 4. Implement logging for better traceability and debugging.
 5. Add pagination and filtering for potential GET endpoints to handle large datasets.
 
+##On testing CallTimeInterval options are (Morning,Afternoon,Evening)
+  - see model defined 😃
 ## Total Time Spent
 - Approximately 7 hours.
