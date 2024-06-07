@@ -31,6 +31,7 @@ namespace JobCandidateHubAPI.Repositories
         public async Task UpdateAsync(Candidate candidate)
         {
             context.Candidates.Update(candidate);
+            await context.SaveChangesAsync();
         }
 
         /*public async Task<ICollection<Candidate>> GetCandidatesAsync()

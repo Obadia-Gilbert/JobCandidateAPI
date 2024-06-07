@@ -49,5 +49,7 @@ namespace JobCandidateHub.Tests
             _mockRepo.Verify(repo => repo.UpdateAsync(existingCandidate), Times.Once);
             _mockRepo.Verify(repo => repo.AddAsync(It.IsAny<Candidate>()), Times.Never);
         }
+
+
     }
 }

@@ -13,24 +13,25 @@ namespace JobCandidateHubAPI.Model
         [StringLength(50)]
         public string FirstName { get; set; }
 
+        [Required]
         [StringLength(50)]
         public string LastName { get; set; }
 
         [Phone]
-        public string PhoneNumber { get; set; }
+        public string? PhoneNumber { get; set; }
 
         [Required]
         [EmailAddress]
         public string Email { get; set; }
 
         [EnumDataType(typeof(CallTimeInterval))]
-        public string CallTimeInterval { get; set; }
+        public string? CallTimeInterval { get; set; }
 
         [Url]
-        public string LinkedInProfileUrl { get; set; }
+        public string? LinkedInProfileUrl { get; set; }
 
         [Url]
-        public string GitHubProfileUrl { get; set; }
+        public string? GitHubProfileUrl { get; set; }
 
         [Required]
         public string Comments { get; set; }
