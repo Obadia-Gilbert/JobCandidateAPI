@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gHW7U3esNYAkI0WxARbFfl9tHqUe3q06y4BtrFAI65xsX74n7pIOGgf+4rF/qSF7EjiRQ95EoG62lPstGzBpwA==",
+  "dgSpecHash": "IJIXp+jwJgoIKxwD7X5lbYGnUe45TZlKgevyYDsDwozhTOXgZwUS6GCXyoP94LJFXxMODA6vUCK369pFNSY6mw==",
   "success": true,
   "projectFilePath": "/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHub.Tests/JobCandidateHub.Tests.csproj",
   "expectedPackageFiles": [
@@ -85,7 +85,7 @@
     "/Users/obadiagilbert/.nuget/packages/xunit.core/2.8.1/xunit.core.2.8.1.nupkg.sha512",
     "/Users/obadiagilbert/.nuget/packages/xunit.extensibility.core/2.8.1/xunit.extensibility.core.2.8.1.nupkg.sha512",
     "/Users/obadiagilbert/.nuget/packages/xunit.extensibility.execution/2.8.1/xunit.extensibility.execution.2.8.1.nupkg.sha512",
-    "/Users/obadiagilbert/.nuget/packages/xunit.runner.visualstudio/2.4.5/xunit.runner.visualstudio.2.4.5.nupkg.sha512"
+    "/Users/obadiagilbert/.nuget/packages/xunit.runner.visualstudio/2.8.1/xunit.runner.visualstudio.2.8.1.nupkg.sha512"
   ],
   "logs": []
 }

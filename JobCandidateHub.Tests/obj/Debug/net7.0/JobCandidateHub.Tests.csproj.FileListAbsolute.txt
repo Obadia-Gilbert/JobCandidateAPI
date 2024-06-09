@@ -4,7 +4,6 @@
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHub.Tests/bin/Debug/net7.0/appsettings.Development.json
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHub.Tests/bin/Debug/net7.0/appsettings.json
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHub.Tests/bin/Debug/net7.0/JobCandidateHubAPI
-/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHub.Tests/bin/Debug/net7.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHub.Tests/bin/Debug/net7.0/xunit.runner.reporters.netcoreapp10.dll
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHub.Tests/bin/Debug/net7.0/xunit.runner.utility.netcoreapp10.dll
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHub.Tests/bin/Debug/net7.0/JobCandidateHub.Tests.deps.json
@@ -150,3 +149,4 @@
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHub.Tests/obj/Debug/net7.0/JobCandidateHub.Tests.pdb
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHub.Tests/obj/Debug/net7.0/JobCandidateHub.Tests.genruntimeconfig.cache
 /Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHub.Tests/obj/Debug/net7.0/ref/JobCandidateHub.Tests.dll
+/Users/obadiagilbert/PROJECTS/Interview/JobCandidateHubAPI/JobCandidateHub.Tests/bin/Debug/net7.0/xunit.runner.visualstudio.testadapter.dll

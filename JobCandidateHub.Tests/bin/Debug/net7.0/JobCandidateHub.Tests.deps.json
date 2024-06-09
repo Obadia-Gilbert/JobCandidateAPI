@@ -14,7 +14,7 @@
           "Moq": "4.20.70",
           "coverlet.collector": "3.2.0",
           "xunit": "2.8.1",
-          "xunit.runner.visualstudio": "2.4.5"
+          "xunit.runner.visualstudio": "2.8.1"
         },
         "runtime": {
           "JobCandidateHub.Tests.dll": {}
@@ -930,7 +930,7 @@
           }
         }
       },
-      "xunit.runner.visualstudio/2.4.5": {},
+      "xunit.runner.visualstudio/2.8.1": {},
       "JobCandidateHubAPI/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "7.0.11",
@@ -1517,12 +1517,12 @@
       "path": "xunit.extensibility.execution/2.8.1",
       "hashPath": "xunit.extensibility.execution.2.8.1.nupkg.sha512"
     },
-    "xunit.runner.visualstudio/2.4.5": {
+    "xunit.runner.visualstudio/2.8.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-OwHamvBdUKgqsXfBzWiCW/O98BTx81UKzx2bieIOQI7CZFE5NEQZGi8PBQGIKawDW96xeRffiNf20SjfC0x9hw==",
-      "path": "xunit.runner.visualstudio/2.4.5",
-      "hashPath": "xunit.runner.visualstudio.2.4.5.nupkg.sha512"
+      "sha512": "sha512-qBTK0WAcnw65mymIjVDqWUTdqjMyzjwu9e9SF0oGYfYELgbcteDZ4fQLJaXw8mzkvpAD7YdoexBbg8VYQFkWWA==",
+      "path": "xunit.runner.visualstudio/2.8.1",
+      "hashPath": "xunit.runner.visualstudio.2.8.1.nupkg.sha512"
     },
     "JobCandidateHubAPI/1.0.0": {
       "type": "project",
